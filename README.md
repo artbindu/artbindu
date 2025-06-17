@@ -376,21 +376,21 @@
 
   [![artbindu Medium story - I](https://medium-story.vercel.app/api?username=@artbindu&index=3)](https://medium-story.vercel.app/api?username=@artbindu&index=3) -->
 
-## My Website:
+## My Website
 
-- [x] [Round Off Decimal Number](https://artbindu-app.github.io/roundoff_number/index.html){:target="_blank"}
-- [x] [Essential Command](https://artbindu-app.github.io/essential_command/index.html){:target="_blank"}
-- [x] [Regularly used Basic Converter](https://artbindu-app.github.io/roundoff_number/converter.html){:target="_blank"}
-- [x] [Node.js Versions](https://artbindu-app.github.io/roundoff_number/node-version.html){:target="_blank"}
+- [x] [Round Off Decimal Number](https://artbindu-app.github.io/roundoff_number/index.html)
+- [x] [Essential Command](https://artbindu-app.github.io/essential_command/index.html)
+- [x] [Regularly used Basic Converter](https://artbindu-app.github.io/roundoff_number/converter.html)
+- [x] [Node.js Versions](https://artbindu-app.github.io/roundoff_number/node-version.html)
 
 ## Generated Issue & Tracking
 
-- [ ] [grunt-http](https://github.com/johngeorgewright/grunt-http/issues/59){:target="_blank"}
-- [ ] [grunt-mocha-istanbul](https://github.com/pocesar/grunt-mocha-istanbul/issues/75){:target="_blank"}
-- [ ] [istanbuljs/nyc](https://github.com/istanbuljs/nyc/issues/1491){:target="_blank"}
-- [x] [gruntjs/grunt](https://github.com/gruntjs/grunt/issues/1752){:target="_blank"}
-- [ ] [primePy](https://github.com/janaindrajit/primePy/issues/7){:target="_blank"}
-- [ ] [primePy](https://github.com/janaindrajit/primePy/issues/8){:target="_blank"}
-- [x] [bitmovinPlayer](https://developer.bitmovin.com/playback/docs/release-notes-web#81200){:target="_blank"}
-- [x] [videojs](https://github.com/videojs/video.js/issues/8306){:target="_blank"}
-- [x] [Oracle SQL](https://github.com/oracle/node-oracledb/issues/1681){:target="_blank"}
+- [ ] [grunt-http](https://github.com/johngeorgewright/grunt-http/issues/59)
+- [ ] [grunt-mocha-istanbul](https://github.com/pocesar/grunt-mocha-istanbul/issues/75)
+- [ ] [istanbuljs/nyc](https://github.com/istanbuljs/nyc/issues/1491)
+- [x] [gruntjs/grunt](https://github.com/gruntjs/grunt/issues/1752)
+- [ ] [primePy](https://github.com/janaindrajit/primePy/issues/7)
+- [ ] [primePy](https://github.com/janaindrajit/primePy/issues/8)
+- [x] [bitmovinPlayer](https://developer.bitmovin.com/playback/docs/release-notes-web#81200)
+- [x] [videojs](https://github.com/videojs/video.js/issues/8306)
+- [x] [Oracle SQL](https://github.com/oracle/node-oracledb/issues/1681)
