@@ -9,14 +9,14 @@
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX6TH3MXo-zzVneKFhf0bTdzzLuz_fWp6Ls4F6Z43WP1o7KnFuk3y2oYc3PcKZ9D5ybFksoxL84ZMfiOycWdOJ9DiwTlayyHqriSHba3oand3sqRsqtItMAdcwfrctHVn_p_xyqUbDx9s/s1600/India_flag_with_emblem.gif" width="45" alt="INDIA">
     </a>
 </h3>
-
-<p align="left">
+<div align="center">
     <img src="https://komarev.com/ghpvc/?username=artbindu&label=Profile%20views&color=0e75b6&style=flat" alt="artbindu"/>
-</p>
-
-<p align="left"> 
-   <a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
-        <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045"/>
+    <img src="https://img.shields.io/github/stars/artbindu?style=flat" alt="artbindu">
+    <img src="https://img.shields.io/github/followers/artbindu?style=flat" alt="artbindu">
+</div>
+<p align="center"> 
+    <a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
+        <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045" width="45%"/>
     </a>
 </p>
 
@@ -34,11 +34,39 @@
 		    <img align="center" src="https://streak-stats.demolab.com/?user=artbindu&theme=github-green-purple&hide_border=true&short_numbers=true" alt="artbindu"/>
 		</th>
     </tr>
-   <tr>
+    <tr>
 		<th style="padding:0;margin:0;">
-			<a href="https://www.hackerrank.com/artbindu">
-		        <img align="center" src="https://hackerrank-badges.vercel.app/artbindu" alt="artbindu"/>
-			</a>
+            <table>
+                <tr><!-- https://in.linkedin.com/in/artbindu?trk=profile-badge -->
+                    <td colspan="4" style="padding:0;margin:0;">
+                       <a href="https://www.hackerrank.com/artbindu">
+                            <img align="center" src="https://hackerrank-badges.vercel.app/artbindu" alt="artbindu"/>
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" style="padding:0;margin:0;">
+                        <a href="https://www.hackerearth.com/@artbindu">
+                            <img align="center" width="35px" style="background-color:rgb(220, 225, 226);padding:10px;" src="https://cdn.simpleicons.org/hackerearth/lblue"/>
+                        </a>
+                    </td>
+                    <td align="center" style="padding:0;margin:0;"> <!-- https://leetcode-badge-showcase.vercel.app/api?username=artbindu -->
+                        <a href="https://leetcode.com/artbindu/">
+                            <img align="center" width="35px" style="background-color:rgb(220, 225, 226);padding:10px;" src="https://cdn.simpleicons.org/leetcode"/>
+                        </a>
+                    </td>
+                    <td align="center" style="padding:0;margin:0;">
+                        <a href="https://bitbucket.org/artbindu/">
+                            <img align="center" width="35px" style="background-color:rgb(220, 225, 226);padding:10px;" src="https://cdn.simpleicons.org/bitbucket/lblue"/>
+                        </a>
+                    </td>
+                    <td align="center" style="padding:0;margin:0;">
+                        <a href="https://in.linkedin.com/in/artbindu?trk=profile-badge">
+                            <img align="center" width="35px" style="background-color:rgb(220, 225, 226);padding:10px;" src="https://artbindu-app.github.io/whoami/images/icons/linkedin-icon.svg"/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
 		</th>
 	   <th style="padding:0;margin:0;">
 			<a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -48,41 +76,10 @@
     </tr>
 </table>
 
-## Connect With Me
-
-<table>
-	<tr>
-		<td colspan="3" style="padding:0;margin:0;">
-            <a href="https://in.linkedin.com/in/artbindu?trk=public-profile-badge-profile-badge-view-profile-cta">
-                <img align="center" src="https://i.stack.imgur.com/D5Hwq.png" alt="artbindu"/>
-            </a>
-        </td>
-	</tr>
-	<tr>
-        <td align="center" style="padding:0;margin:0;">
-	        <a href="https://www.hackerearth.com/@artbindu">
-                <img align="center" width="35px" style="background-color:black;padding:10px;" src="https://cdn.simpleicons.org/hackerearth/lblue"/>
-            </a>
-        </td>
-        <td align="center" style="padding:0;margin:0;"> <!-- https://leetcode-badge-showcase.vercel.app/api?username=artbindu -->
-	        <a href="https://leetcode.com/artbindu/">
-                <img align="center" width="35px" style="background-color:black;padding:10px;" src="https://cdn.simpleicons.org/leetcode"/>
-            </a>
-        </td>
-        <td align="center" style="padding:0;margin:0;">
-	        <a href="https://bitbucket.org/artbindu/">
-                <img align="center" width="35px" style="background-color:black;padding:10px;" src="https://cdn.simpleicons.org/bitbucket/lblue"/>
-            </a>
-        </td>
-	</tr>
-</table>
+<!-- ## Connect With Me
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="artbindu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/artbindu?trk=profile-badge"></a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
 <hr/>
-
-<br/><br/></hr>
-
-# <a href="https://artbindu-app.github.io/whoami/index.html"><img align="center" padding="1px" src="https://avatars.githubusercontent.com/u/44528087?s=400&u=9e51f1d96969229ae1a25f0d1680b06e5ad69e94&v=4" height="30px">Curriculum Vitae</a>
-
-</hr>
 
 ## My Website
 
