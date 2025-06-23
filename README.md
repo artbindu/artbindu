@@ -22,7 +22,7 @@
     </a>
 </div>
 <div align="center">
-    <span style="padding:0%;">
+    <span style="padding:1%;">
     <a href="https://www.hackerrank.com/profile/artbindu">
         <img align="center" src="https://custom-icon-badges.demolab.com/badge/HackerRank-008009?logo=HackerRank&logoColor=fff"/>
     </a></span>
@@ -42,7 +42,7 @@
     <a href="https://in.linkedin.com/in/artbindu?trk=profile-badge">
         <img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
     </a></span>
-    <span style="padding:0%;">
+    <span style="padding:1%;">
     <a href="https://www.w3profile.com/artbindu">
         <img align="center" src="https://custom-icon-badges.demolab.com/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff"/>
     </a></span>
@@ -65,7 +65,7 @@
     <tr><!-- https://in.linkedin.com/in/artbindu?trk=profile-badge -->
 		<th style="padding:1px;margin:0;">
             <a href="https://www.hackerrank.com/artbindu">
-                <img align="center" src="https://hackerrank-badges.vercel.app/artbindu" alt="artbindu"/>
+                <img align="center" src="https://hackerrank-badges.vercel.app/artbindu?theme=dark#gh-dark-mode-only" alt="artbindu"/>
             </a>
 		</th>
 	   <th style="padding:1px;margin:0;">
