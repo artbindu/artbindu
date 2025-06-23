@@ -21,7 +21,7 @@
         <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045" width="50%"/>
     </a>
 </div>
-<div align="center">
+<div align="center" style="pading-bottom:10px">
     <span style="padding:1%;">
     <a href="https://www.hackerrank.com/profile/artbindu">
         <img align="center" src="https://custom-icon-badges.demolab.com/badge/HackerRank-008009?logo=HackerRank&logoColor=fff"/>
@@ -48,7 +48,7 @@
     </a></span>
 </div>
 
-<table style="padding-top:10px;border-collapse: collapse;">
+<table style="border-collapse: collapse;">
     <tr>
 		<th style="padding:1px;margin:0;">
 		    <img align="center" src="https://github-readme-stats.vercel.app/api?username=artbindu&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="artbindu" width="90%"/>
