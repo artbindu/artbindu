@@ -15,13 +15,12 @@
 </p>
 
 <p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=artbindu&theme=onedark&margin-w=1&column=9" alt="artbindu"/>
+   <a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
+        <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045"/>
     </a>
 </p>
 
 <table style="border-collapse: collapse;background-color:rgb(164, 167, 169);">
-    <!-- <caption><h2>Git Status</h2></caption> -->
     <tr>
 		<th style="padding:0;margin:0;">
 		    <img align="center" src="https://github-readme-stats.vercel.app/api?username=artbindu&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="artbindu"/>
@@ -30,7 +29,7 @@
 		    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbindu&show_icons=true&locale=en&langs_count=10&theme=dark#gh-dark-mode-only" alt="artbindu"/>
 		</th>
 	</tr>
-    <tr> <!-- streak-stats configure: https://streak-stats.demolab.com/demo/?user=artbindu -->
+    <tr> <!-- demolab configure: https://streak-stats.demolab.com/demo/?user=artbindu -->
         <th style="padding:0;margin:0;">
 		    <img align="center" src="https://streak-stats.demolab.com/?user=artbindu&theme=github-green-purple&hide_border=true&short_numbers=true" alt="artbindu"/>
 		</th>
@@ -42,9 +41,9 @@
 			</a>
 		</th>
 	   <th style="padding:0;margin:0;">
-			<a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
-		        <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045"/>
-			</a>
+			<a href="https://github.com/ryo-ma/github-profile-trophy">
+                <img src="https://github-profile-trophy.vercel.app/?username=artbindu&theme=onedark&margin-w=3&column=3" alt="artbindu"/>
+            </a>
 		</th>
     </tr>
 </table>
