@@ -9,43 +9,44 @@
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX6TH3MXo-zzVneKFhf0bTdzzLuz_fWp6Ls4F6Z43WP1o7KnFuk3y2oYc3PcKZ9D5ybFksoxL84ZMfiOycWdOJ9DiwTlayyHqriSHba3oand3sqRsqtItMAdcwfrctHVn_p_xyqUbDx9s/s1600/India_flag_with_emblem.gif" width="45" alt="INDIA">
     </a>
 </h3>
-<div align="center">
-    <!-- <img src="https://komarev.com/ghpvc/?username=artbindu&label=Profile%20views&color=0e75b6&style=flat" alt="artbindu"/> -->
-    <img src="https://img.shields.io/badge/@rt-B!ndu-gr" alt="artbindu">
-    <img src="https://img.shields.io/github/stars/artbindu?style=flat" alt="artbindu">
-    <img src="https://img.shields.io/github/followers/artbindu?style=flat" alt="artbindu">
-</div>
-
-<div align="center"> 
-    <a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
-        <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045" width="50%"/>
-    </a>
-</div>
-<div align="center" style="pading-bottom:10px">
-    <span style="padding:1%;">
-    <a href="https://www.hackerrank.com/profile/artbindu">
-        <img align="center" src="https://custom-icon-badges.demolab.com/badge/HackerRank-008009?logo=HackerRank&logoColor=fff"/>
-    </a></span>
-    <span style="padding:1%;">
-    <a href="https://www.hackerearth.com/@artbindu">
-        <img align="center" src="https://custom-icon-badges.demolab.com/badge/HackerEarth-093b3b?logo=HackerEarth&logoColor=fff"/>
-    </a></span>
-    <span style="padding:1%;">
-    <a href="https://leetcode.com/u/artbindu">
-        <img align="center" src="https://custom-icon-badges.demolab.com/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06"/>
-    </a></span>
-    <span style="padding:1%;">
-    <a href="https://medium.com/@artbindu">
-        <img align="center" src="https://custom-icon-badges.demolab.com/badge/Medium-1A8917?logo=Medium&logoColor=fff"/>
-    </a></span>
-    <span style="padding:1%;">
-    <a href="https://in.linkedin.com/in/artbindu?trk=profile-badge">
-        <img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
-    </a></span>
-    <span style="padding:1%;">
-    <a href="https://www.w3profile.com/artbindu">
-        <img align="center" src="https://custom-icon-badges.demolab.com/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff"/>
-    </a></span>
+<div style="pading-bottom:10px">
+    <div align="center">
+        <!-- <img src="https://komarev.com/ghpvc/?username=artbindu&label=Profile%20views&color=0e75b6&style=flat" alt="artbindu"/> -->
+        <img src="https://img.shields.io/badge/@rt-B!ndu-gr" alt="artbindu">
+        <img src="https://img.shields.io/github/stars/artbindu?style=flat" alt="artbindu">
+        <img src="https://img.shields.io/github/followers/artbindu?style=flat" alt="artbindu">
+    </div>
+    <div align="center"> 
+        <a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
+            <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045" width="50%"/>
+        </a>
+    </div>
+    <div align="center">
+        <span style="padding:1%;">
+        <a href="https://www.hackerrank.com/profile/artbindu">
+            <img align="center" src="https://custom-icon-badges.demolab.com/badge/HackerRank-008009?logo=HackerRank&logoColor=fff"/>
+        </a></span>
+        <span style="padding:1%;">
+        <a href="https://www.hackerearth.com/@artbindu">
+            <img align="center" src="https://custom-icon-badges.demolab.com/badge/HackerEarth-093b3b?logo=HackerEarth&logoColor=fff"/>
+        </a></span>
+        <span style="padding:1%;">
+        <a href="https://leetcode.com/u/artbindu">
+            <img align="center" src="https://custom-icon-badges.demolab.com/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06"/>
+        </a></span>
+        <span style="padding:1%;">
+        <a href="https://medium.com/@artbindu">
+            <img align="center" src="https://custom-icon-badges.demolab.com/badge/Medium-1A8917?logo=Medium&logoColor=fff"/>
+        </a></span>
+        <span style="padding:1%;">
+        <a href="https://in.linkedin.com/in/artbindu?trk=profile-badge">
+            <img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
+        </a></span>
+        <span style="padding:1%;">
+        <a href="https://www.w3profile.com/artbindu">
+            <img align="center" src="https://custom-icon-badges.demolab.com/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff"/>
+        </a></span>
+    </div>
 </div>
 
 <table style="border-collapse: collapse;">
