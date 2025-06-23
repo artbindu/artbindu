@@ -32,7 +32,8 @@
 	</tr>
     <tr>
         <th style="padding:0;margin:0;">
-		    <img align="center" src="https://streak-stats.demolab.com/?user=artbindu&theme=dark&hide_border=true&short_numbers=true" alt="artbindu"/>
+		    <!-- <img align="center" src="https://streak-stats.demolab.com/?user=artbindu&theme=dark&hide_border=true&short_numbers=true" alt="artbindu"/> -->
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artbindu&&show_icons=true&theme=dark#gh-dark-mode-only" alt="artbindu"/>
 		</th>
     </tr>
    <tr>
@@ -81,7 +82,7 @@
 
 <br/><br/></hr>
 
-# <a href="https://artbindu-app.github.io/whoami/index.html"><img align="center" padding="1px" src="https://avatars.githubusercontent.com/u/44528087?s=400&u=9e51f1d96969229ae1a25f0d1680b06e5ad69e94&v=4" height="30px">&nbsp;Curriculum Vitae</a>
+# <a href="https://artbindu-app.github.io/whoami/index.html"><img align="center" padding="1px" src="https://avatars.githubusercontent.com/u/44528087?s=400&u=9e51f1d96969229ae1a25f0d1680b06e5ad69e94&v=4" height="30px">Curriculum Vitae</a>
 
 </hr>
 
