@@ -10,13 +10,14 @@
     </a>
 </h3>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=artbindu&label=Profile%20views&color=0e75b6&style=flat" alt="artbindu"/>
+    <!-- <img src="https://komarev.com/ghpvc/?username=artbindu&label=Profile%20views&color=0e75b6&style=flat" alt="artbindu"/> -->
+    <img src="https://img.shields.io/badge/@rtB!ndu-mazenda" alt="artbindu">
     <img src="https://img.shields.io/github/stars/artbindu?style=flat" alt="artbindu">
     <img src="https://img.shields.io/github/followers/artbindu?style=flat" alt="artbindu">
 </div>
 <p align="center"> 
     <a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
-        <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045" width="45%"/>
+        <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045" width="60%"/>
     </a>
 </p>
 
@@ -90,12 +91,12 @@
 
 ## Generated Issue & Tracking
 
-- [ ] <a href="https://github.com/johngeorgewright/grunt-http/issues/59" target="_blank">grunt-http</a>
-- [ ] <a href="https://github.com/pocesar/grunt-mocha-istanbul/issues/75" target="_blank">grunt-mocha-istanbul</a>
-- [ ] <a href="https://github.com/istanbuljs/nyc/issues/1491" target="_blank">istanbuljs/nyc</a>
-- [x] <a href="https://github.com/gruntjs/grunt/issues/1752" target="_blank">gruntjs/grunt</a>
-- [ ] <a href="https://github.com/janaindrajit/primePy/issues/7" target="_blank">primePy</a>
-- [ ] <a href="https://github.com/janaindrajit/primePy/issues/8" target="_blank">primePy</a>
-- [x] <a href="https://developer.bitmovin.com/playback/docs/release-notes-web#81200" target="_blank">bitmovinPlayer</a>
-- [x] <a href="https://github.com/videojs/video.js/issues/8306" target="_blank">videojs</a>
-- [x] <a href="https://github.com/oracle/node-oracledb/issues/1681" target="_blank">Oracle SQL</a>
+- [ ] <a href="https://github.com/johngeorgewright/grunt-http/issues/59" target="_blank"><img src="https://img.shields.io/badge/grunt--http-red"></a>
+- [ ] <a href="https://github.com/pocesar/grunt-mocha-istanbul/issues/75" target="_blank"><img src="https://img.shields.io/badge/grunt--mocha--istanbul-red"></a>
+- [ ] <a href="https://github.com/istanbuljs/nyc/issues/1491" target="_blank"><img src="https://img.shields.io/badge/istanbuljs/nyc-yellow"></a>
+- [x] <a href="https://github.com/gruntjs/grunt/issues/1752" target="_blank"><img src="https://img.shields.io/badge/gruntjs/grunt-mazenda"></a>
+- [ ] <a href="https://github.com/janaindrajit/primePy/issues/7" target="_blank"><img src="https://img.shields.io/badge/primePy-green"></a>
+- [ ] <a href="https://github.com/janaindrajit/primePy/issues/8" target="_blank"><img src="https://img.shields.io/badge/primePy-green"></a>
+- [x] <a href="https://developer.bitmovin.com/playback/docs/release-notes-web#81200" target="_blank"><img src="https://img.shields.io/badge/bitmovinPlayer-blue"></a>
+- [x] <a href="https://github.com/videojs/video.js/issues/8306" target="_blank"><img src="https://img.shields.io/badge/videojs-purple"></a>
+- [x] <a href="https://github.com/oracle/node-oracledb/issues/1681" target="_blank"><img src="https://img.shields.io/badge/Oracle SQL-pink"></a>
