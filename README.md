@@ -15,63 +15,56 @@
     <img src="https://img.shields.io/github/stars/artbindu?style=flat" alt="artbindu">
     <img src="https://img.shields.io/github/followers/artbindu?style=flat" alt="artbindu">
 </div>
-<p align="center"> 
+
+<div align="center"> 
     <a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
         <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045" width="50%"/>
     </a>
-</p>
+</div>
+<div align="center">
+    <a href="https://www.hackerrank.com/profile/artbindu" style="padding:1%;">
+        <img align="center" src="https://custom-icon-badges.demolab.com/badge/HackerRank-008009?logo=HackerRank&logoColor=fff"/>
+    </a>
+    <a href="https://www.hackerearth.com/@artbindu" style="padding:1%;">
+        <img align="center" src="https://custom-icon-badges.demolab.com/badge/HackerEarth-093b3b?logo=HackerEarth&logoColor=fff"/>
+    </a>
+    <a href="https://leetcode.com/u/artbindu" style="padding:2%;">
+        <img align="center" src="https://custom-icon-badges.demolab.com/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06"/>
+    </a>
+    <a href="https://medium.com/@artbindu" style="padding:1%;">
+        <img align="center" src="https://custom-icon-badges.demolab.com/badge/Medium-1A8917?logo=Medium&logoColor=fff"/>
+    </a>
+    <a href="https://in.linkedin.com/in/artbindu?trk=profile-badge" style="padding:2%;">
+        <img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
+    </a>
+    <a href="https://www.w3profile.com/artbindu" style="padding:1%;">
+        <img align="center" src="https://custom-icon-badges.demolab.com/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff"/>
+    </a>
+</div>
 
-<table style="border-collapse: collapse;background-color:rgb(164, 167, 169);">
+<table style="padding-top:10px;border-collapse: collapse;">
     <tr>
-		<th style="padding:0;margin:0;">
+		<th style="padding:1px;margin:0;">
 		    <img align="center" src="https://github-readme-stats.vercel.app/api?username=artbindu&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="artbindu" width="90%"/>
 		</th>
-        <th rowspan="2" style="padding:0;margin:0;">
+        <th rowspan="2" style="padding:1px;margin:0;">
 		    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbindu&show_icons=true&locale=en&langs_count=10&theme=dark#gh-dark-mode-only" alt="artbindu"/>
 		</th>
 	</tr>
-    <tr> <!-- demolab configure: https://streak-stats.demolab.com/demo/?user=artbindu -->
-        <th style="padding:0;margin:0;">
+    <tr><!-- demolab configure: https://streak-stats.demolab.com/demo/?user=artbindu -->
+        <th style="padding:1px;margin:0;">
 		    <img align="center" src="https://streak-stats.demolab.com/?user=artbindu&theme=github-green-purple&hide_border=true&short_numbers=true" alt="artbindu" width="90%"/>
 		</th>
     </tr>
-    <tr>
-		<th style="padding:0;margin:0;">
-            <table style="padding:2px">
-                <tr><!-- https://in.linkedin.com/in/artbindu?trk=profile-badge -->
-                    <td colspan="4" style="padding:0;margin:0;">
-                       <a href="https://www.hackerrank.com/artbindu">
-                            <img align="center" src="https://hackerrank-badges.vercel.app/artbindu" alt="artbindu" width="90%"/>
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center" style="padding:0;margin:0;">
-                        <a href="https://www.hackerearth.com/@artbindu">
-                            <img align="center" width="25px" style="background-color:rgb(220, 225, 226);padding:5px;" src="https://cdn.simpleicons.org/hackerearth/lblue"/>
-                        </a>
-                    </td>
-                    <td align="center" style="padding:0;margin:0;"> <!-- https://leetcode-badge-showcase.vercel.app/api?username=artbindu -->
-                        <a href="https://leetcode.com/artbindu/">
-                            <img align="center" width="25px" style="background-color:rgb(220, 225, 226);padding:5px;" src="https://cdn.simpleicons.org/leetcode"/>
-                        </a>
-                    </td>
-                    <td align="center" style="padding:0;margin:0;">
-                        <a href="https://bitbucket.org/artbindu/">
-                            <img align="center" width="25px" style="background-color:rgb(220, 225, 226);padding:5px;" src="https://cdn.simpleicons.org/bitbucket/lblue"/>
-                        </a>
-                    </td>
-                    <td align="center" style="padding:0;margin:0;">
-                        <a href="https://in.linkedin.com/in/artbindu?trk=profile-badge">
-                            <img align="center" width="25px" style="background-color:rgb(220, 225, 226);padding:5px;" src="https://artbindu-app.github.io/whoami/images/icons/linkedin-icon.svg"/>
-                        </a>
-                    </td>
-                </tr>
-            </table>
+    <tr><!-- https://in.linkedin.com/in/artbindu?trk=profile-badge -->
+		<th style="padding:1px;margin:0;">
+            <a href="https://www.hackerrank.com/artbindu">
+                <img align="center" src="https://hackerrank-badges.vercel.app/artbindu" alt="artbindu"/>
+            </a>
 		</th>
-	   <th style="padding:0;margin:0;">
+	   <th style="padding:1px;margin:0;">
 			<a href="https://github.com/ryo-ma/github-profile-trophy">
-                <img src="https://github-profile-trophy.vercel.app/?username=artbindu&theme=onedark&margin-w=3&column=3" alt="artbindu" width="100%"/>
+                <img src="https://github-profile-trophy.vercel.app/?username=artbindu&theme=onedark&margin-w=3&column=3" alt="artbindu"/>
             </a>
 		</th>
     </tr>
@@ -100,3 +93,5 @@
 - <img src="https://img.shields.io/badge/✔-logo"> <a href="https://developer.bitmovin.com/playback/docs/release-notes-web#81200" target="_blank"><img src="https://img.shields.io/badge/bitmovinPlayer-blue"></a>
 - <img src="https://img.shields.io/badge/✔-logo"> <a href="https://github.com/videojs/video.js/issues/8306" target="_blank"><img src="https://img.shields.io/badge/videojs-purple"></a>
 - <img src="https://img.shields.io/badge/✔-logo"> <a href="https://github.com/oracle/node-oracledb/issues/1681" target="_blank"><img src="https://img.shields.io/badge/Oracle SQL-pink"></a>
+
+<!-- All log list: https://github.com/inttter/md-badges?tab=readme-ov-file#-app-store -->
