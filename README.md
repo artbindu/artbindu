@@ -1,7 +1,3 @@
-<!-- GitHub Profile Picture
-![animated]()
--->
-
 <h1 align="center">Hi 👋, I'm 
 	<a href="https://artbindu-app.github.io/whoami/index.html" target="_blank">
         Biswasindhu Mandal 
@@ -20,7 +16,7 @@
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=artbindu&theme=onedark&margin-w=1&column=8" alt="artbindu"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=artbindu&theme=onedark&margin-w=1&column=9" alt="artbindu"/>
     </a>
 </p>
 
@@ -31,13 +27,12 @@
 		    <img align="center" src="https://github-readme-stats.vercel.app/api?username=artbindu&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="artbindu"/>
 		</th>
         <th rowspan="2" style="padding:0;margin:0;">
-            <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbindu&show_icons=true&locale=en&langs_count=10&theme=dark#gh-dark-mode-only" alt="artbindu"/> -->
 		    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbindu&show_icons=true&locale=en&langs_count=10&theme=dark#gh-dark-mode-only" alt="artbindu"/>
 		</th>
 	</tr>
     <tr>
         <th style="padding:0;margin:0;">
-		    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artbindu&&show_icons=true&theme=dark#gh-dark-mode-only" alt="artbindu"/>
+		    <img align="center" src="https://streak-stats.demolab.com/?user=artbindu&theme=dark&hide_border=true&short_numbers=true" alt="artbindu"/>
 		</th>
     </tr>
    <tr>
