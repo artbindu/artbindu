@@ -22,24 +22,30 @@
     </a>
 </div>
 <div align="center">
-    <a href="https://www.hackerrank.com/profile/artbindu" style="padding:1%;">
+    <span style="padding:0%;">
+    <a href="https://www.hackerrank.com/profile/artbindu">
         <img align="center" src="https://custom-icon-badges.demolab.com/badge/HackerRank-008009?logo=HackerRank&logoColor=fff"/>
-    </a>
-    <a href="https://www.hackerearth.com/@artbindu" style="padding:1%;">
+    </a></span>
+    <span style="padding:1%;">
+    <a href="https://www.hackerearth.com/@artbindu">
         <img align="center" src="https://custom-icon-badges.demolab.com/badge/HackerEarth-093b3b?logo=HackerEarth&logoColor=fff"/>
-    </a>
-    <a href="https://leetcode.com/u/artbindu" style="padding:2%;">
+    </a></span>
+    <span style="padding:1%;">
+    <a href="https://leetcode.com/u/artbindu">
         <img align="center" src="https://custom-icon-badges.demolab.com/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06"/>
-    </a>
-    <a href="https://medium.com/@artbindu" style="padding:1%;">
+    </a></span>
+    <span style="padding:1%;">
+    <a href="https://medium.com/@artbindu">
         <img align="center" src="https://custom-icon-badges.demolab.com/badge/Medium-1A8917?logo=Medium&logoColor=fff"/>
-    </a>
-    <a href="https://in.linkedin.com/in/artbindu?trk=profile-badge" style="padding:2%;">
+    </a></span>
+    <span style="padding:1%;">
+    <a href="https://in.linkedin.com/in/artbindu?trk=profile-badge">
         <img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
-    </a>
-    <a href="https://www.w3profile.com/artbindu" style="padding:1%;">
+    </a></span>
+    <span style="padding:0%;">
+    <a href="https://www.w3profile.com/artbindu">
         <img align="center" src="https://custom-icon-badges.demolab.com/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff"/>
-    </a>
+    </a></span>
 </div>
 
 <table style="padding-top:10px;border-collapse: collapse;">
