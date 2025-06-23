@@ -11,13 +11,13 @@
 </h3>
 <div align="center">
     <!-- <img src="https://komarev.com/ghpvc/?username=artbindu&label=Profile%20views&color=0e75b6&style=flat" alt="artbindu"/> -->
-    <img src="https://img.shields.io/badge/@rtB!ndu-mazenda" alt="artbindu">
+    <img src="https://img.shields.io/badge/@rt-B!ndu-gr" alt="artbindu">
     <img src="https://img.shields.io/github/stars/artbindu?style=flat" alt="artbindu">
     <img src="https://img.shields.io/github/followers/artbindu?style=flat" alt="artbindu">
 </div>
 <p align="center"> 
     <a href="https://stackoverflow.com/users/10850045/art-bindu?tab=profile">
-        <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045" width="60%"/>
+        <img align="center" src="https://so-stats-kurt-liao.vercel.app/api?user=10850045" width="50%"/>
     </a>
 </p>
 
@@ -84,19 +84,19 @@
 
 ## My Website
 
-- [x] <a href="https://artbindu-app.github.io/roundoff_number/index.html" target="_blank">Round Off Decimal Number</a>
-- [x] <a href="https://artbindu-app.github.io/essential_command/index.html" target="_blank">Essential Command</a>
-- [x] <a href="https://artbindu-app.github.io/roundoff_number/converter.html" target="_blank">Regularly used Basic Converter</a>
-- [x] <a href="https://artbindu-app.github.io/roundoff_number/node-version.html" target="_blank">Node.js Versions</a>
+- <img src="https://img.shields.io/badge/📌-ebf4f4"> <a href="https://artbindu-app.github.io/roundoff_number/index.html" target="_blank"><img src="https://img.shields.io/badge/✄-Round Off Decimal Number-blue?logo=Math&logoColor=black"></a>
+- <img src="https://img.shields.io/badge/📌-ebf4f4"> <a href="https://artbindu-app.github.io/essential_command/index.html" target="_blank"><img src="https://img.shields.io/badge/Essential Command-black?logo=app-store&logoColor=white"></a>
+- <img src="https://img.shields.io/badge/📌-ebf4f4"> <a href="https://artbindu-app.github.io/roundoff_number/converter.html" target="_blank"><img src="https://img.shields.io/badge/📟 Basic Convertor-purple"></a>
+- <img src="https://img.shields.io/badge/📌-ebf4f4"> <a href="https://artbindu-app.github.io/roundoff_number/node-version.html" target="_blank"><img src="https://img.shields.io/badge/node.js-Versions-gr?logo=nodedotjs&logoColor=green"></a>
 
 ## Generated Issue & Tracking
 
-- [ ] <a href="https://github.com/johngeorgewright/grunt-http/issues/59" target="_blank"><img src="https://img.shields.io/badge/grunt--http-red"></a>
-- [ ] <a href="https://github.com/pocesar/grunt-mocha-istanbul/issues/75" target="_blank"><img src="https://img.shields.io/badge/grunt--mocha--istanbul-red"></a>
-- [ ] <a href="https://github.com/istanbuljs/nyc/issues/1491" target="_blank"><img src="https://img.shields.io/badge/istanbuljs/nyc-yellow"></a>
-- [x] <a href="https://github.com/gruntjs/grunt/issues/1752" target="_blank"><img src="https://img.shields.io/badge/gruntjs/grunt-mazenda"></a>
-- [ ] <a href="https://github.com/janaindrajit/primePy/issues/7" target="_blank"><img src="https://img.shields.io/badge/primePy-green"></a>
-- [ ] <a href="https://github.com/janaindrajit/primePy/issues/8" target="_blank"><img src="https://img.shields.io/badge/primePy-green"></a>
-- [x] <a href="https://developer.bitmovin.com/playback/docs/release-notes-web#81200" target="_blank"><img src="https://img.shields.io/badge/bitmovinPlayer-blue"></a>
-- [x] <a href="https://github.com/videojs/video.js/issues/8306" target="_blank"><img src="https://img.shields.io/badge/videojs-purple"></a>
-- [x] <a href="https://github.com/oracle/node-oracledb/issues/1681" target="_blank"><img src="https://img.shields.io/badge/Oracle SQL-pink"></a>
+- <img src="https://img.shields.io/badge/☐-gray"> <a href="https://github.com/johngeorgewright/grunt-http/issues/59" target="_blank"><img src="https://img.shields.io/badge/grunt--http-red"></a>
+- <img src="https://img.shields.io/badge/☐-gray"> <a href="https://github.com/pocesar/grunt-mocha-istanbul/issues/75" target="_blank"><img src="https://img.shields.io/badge/grunt--mocha--istanbul-red"></a>
+- <img src="https://img.shields.io/badge/☐-gray"> <a href="https://github.com/istanbuljs/nyc/issues/1491" target="_blank"><img src="https://img.shields.io/badge/istanbuljs/nyc-yellow"></a>
+- <img src="https://img.shields.io/badge/✔-logo"> <a href="https://github.com/gruntjs/grunt/issues/1752" target="_blank"><img src="https://img.shields.io/badge/gruntjs/grunt-mazenda"></a>
+- <img src="https://img.shields.io/badge/☐-gray"> <a href="https://github.com/janaindrajit/primePy/issues/7" target="_blank"><img src="https://img.shields.io/badge/primePy-green"></a>
+- <img src="https://img.shields.io/badge/☐-gray"> <a href="https://github.com/janaindrajit/primePy/issues/8" target="_blank"><img src="https://img.shields.io/badge/primePy-green"></a>
+- <img src="https://img.shields.io/badge/✔-logo"> <a href="https://developer.bitmovin.com/playback/docs/release-notes-web#81200" target="_blank"><img src="https://img.shields.io/badge/bitmovinPlayer-blue"></a>
+- <img src="https://img.shields.io/badge/✔-logo"> <a href="https://github.com/videojs/video.js/issues/8306" target="_blank"><img src="https://img.shields.io/badge/videojs-purple"></a>
+- <img src="https://img.shields.io/badge/✔-logo"> <a href="https://github.com/oracle/node-oracledb/issues/1681" target="_blank"><img src="https://img.shields.io/badge/Oracle SQL-pink"></a>
