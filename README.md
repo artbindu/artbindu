@@ -30,10 +30,10 @@
 		    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbindu&show_icons=true&locale=en&langs_count=10&theme=dark#gh-dark-mode-only" alt="artbindu"/>
 		</th>
 	</tr>
-    <tr>
+    <tr> <!-- streak-stats configure: https://streak-stats.demolab.com/demo/?user=artbindu -->
         <th style="padding:0;margin:0;">
 		    <!-- <img align="center" src="https://streak-stats.demolab.com/?user=artbindu&theme=dark&hide_border=true&short_numbers=true" alt="artbindu"/> -->
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artbindu&&show_icons=true&theme=dark#gh-dark-mode-only" alt="artbindu"/>
+            <img align="center" src="(https://streak-stats.demolab.com?user=artbindu&theme=github-green-purple" alt="artbindu"/>
 		</th>
     </tr>
    <tr>
