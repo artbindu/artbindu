@@ -95,12 +95,12 @@
 
 ## Generated Issue & Tracking
 
-- <img src="https://img.shields.io/badge/☐-gray"> <a href="https://github.com/johngeorgewright/grunt-http/issues/59" target="_blank"><img src="https://img.shields.io/badge/grunt--http-red"></a>
-- <img src="https://img.shields.io/badge/☐-gray"> <a href="https://github.com/pocesar/grunt-mocha-istanbul/issues/75" target="_blank"><img src="https://img.shields.io/badge/grunt--mocha--istanbul-red"></a>
-- <img src="https://img.shields.io/badge/☐-gray"> <a href="https://github.com/istanbuljs/nyc/issues/1491" target="_blank"><img src="https://img.shields.io/badge/istanbuljs/nyc-yellow"></a>
+- <img src="https://img.shields.io/badge/🐞-ebf4f4"> <a href="https://github.com/johngeorgewright/grunt-http/issues/59" target="_blank"><img src="https://img.shields.io/badge/grunt--http-red"></a>
+- <img src="https://img.shields.io/badge/🐞-ebf4f4"> <a href="https://github.com/pocesar/grunt-mocha-istanbul/issues/75" target="_blank"><img src="https://img.shields.io/badge/grunt--mocha--istanbul-red"></a>
+- <img src="https://img.shields.io/badge/🐞-ebf4f4"> <a href="https://github.com/istanbuljs/nyc/issues/1491" target="_blank"><img src="https://img.shields.io/badge/istanbuljs/nyc-yellow"></a>
 - <img src="https://img.shields.io/badge/✔-logo"> <a href="https://github.com/gruntjs/grunt/issues/1752" target="_blank"><img src="https://img.shields.io/badge/gruntjs/grunt-mazenda"></a>
-- <img src="https://img.shields.io/badge/☐-gray"> <a href="https://github.com/janaindrajit/primePy/issues/7" target="_blank"><img src="https://img.shields.io/badge/primePy-green"></a>
-- <img src="https://img.shields.io/badge/☐-gray"> <a href="https://github.com/janaindrajit/primePy/issues/8" target="_blank"><img src="https://img.shields.io/badge/primePy-green"></a>
+- <img src="https://img.shields.io/badge/🐞-ebf4f4"> <a href="https://github.com/janaindrajit/primePy/issues/7" target="_blank"><img src="https://img.shields.io/badge/primePy-green"></a>
+- <img src="https://img.shields.io/badge/🐞-ebf4f4"> <a href="https://github.com/janaindrajit/primePy/issues/8" target="_blank"><img src="https://img.shields.io/badge/primePy-green"></a>
 - <img src="https://img.shields.io/badge/✔-logo"> <a href="https://developer.bitmovin.com/playback/docs/release-notes-web#81200" target="_blank"><img src="https://img.shields.io/badge/bitmovinPlayer-blue"></a>
 - <img src="https://img.shields.io/badge/✔-logo"> <a href="https://github.com/videojs/video.js/issues/8306" target="_blank"><img src="https://img.shields.io/badge/videojs-purple"></a>
 - <img src="https://img.shields.io/badge/✔-logo"> <a href="https://github.com/oracle/node-oracledb/issues/1681" target="_blank"><img src="https://img.shields.io/badge/Oracle SQL-pink"></a>
