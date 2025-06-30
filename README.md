@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/&-blue" alt="artbindu">
     <img src="https://img.shields.io/badge/OTT Front End-Developer-purple?logoColor=green" alt="artbindu">
     <img src="https://img.shields.io/badge/from-India-d16c06?logoColor=green" alt="artbindu">
+    <img src="https://custom-icon-badges.demolab.com/badge/India-a0f3fa?logo=india">
     <a href="https://knowindia.india.gov.in/profile/" target="_blank">
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX6TH3MXo-zzVneKFhf0bTdzzLuz_fWp6Ls4F6Z43WP1o7KnFuk3y2oYc3PcKZ9D5ybFksoxL84ZMfiOycWdOJ9DiwTlayyHqriSHba3oand3sqRsqtItMAdcwfrctHVn_p_xyqUbDx9s/s1600/India_flag_with_emblem.gif" width="40" alt="INDIA">
     </a>
@@ -16,7 +17,7 @@
 <div style="margin-bottom:3%;">
     <div align="center" style="margin-botton:2px;">
         <!-- <img src="https://komarev.com/ghpvc/?username=artbindu&label=Profile%20views&color=0e75b6&style=flat" alt="artbindu"/> -->
-        <img src="https://img.shields.io/badge/@rt-B!ndu-gr" alt="artbindu">
+        <img src="https://custom-icon-badges.demolab.com/badge/Art-Bindu-933893?logo=artbindu&logoColor=fff" alt="artbindu">
         <img src="https://img.shields.io/github/stars/artbindu?style=flat" alt="artbindu">
         <img src="https://img.shields.io/github/followers/artbindu?style=flat" alt="artbindu">
     </div>
@@ -95,12 +96,12 @@
 
 ## Generated Issue & Tracking
 
-- <img src="https://img.shields.io/badge/🐞-ebf4f4"> <a href="https://github.com/johngeorgewright/grunt-http/issues/59" target="_blank"><img src="https://img.shields.io/badge/grunt--http-red"></a>
-- <img src="https://img.shields.io/badge/🐞-ebf4f4"> <a href="https://github.com/pocesar/grunt-mocha-istanbul/issues/75" target="_blank"><img src="https://img.shields.io/badge/grunt--mocha--istanbul-red"></a>
+- <img src="https://img.shields.io/badge/🐞-ebf4f4"> <a href="https://github.com/johngeorgewright/grunt-http/issues/59" target="_blank"><img src="https://img.shields.io/badge/grunt--http-red?logo=grunt&logoColor=white"></a>
+- <img src="https://img.shields.io/badge/🐞-ebf4f4"> <a href="https://github.com/pocesar/grunt-mocha-istanbul/issues/75" target="_blank"><img src="https://img.shields.io/badge/grunt--mocha--istanbul-red?logo=mocha&logoColor=white"></a>
 - <img src="https://img.shields.io/badge/🐞-ebf4f4"> <a href="https://github.com/istanbuljs/nyc/issues/1491" target="_blank"><img src="https://img.shields.io/badge/istanbuljs/nyc-yellow"></a>
-- <img src="https://img.shields.io/badge/✔-logo"> <a href="https://github.com/gruntjs/grunt/issues/1752" target="_blank"><img src="https://img.shields.io/badge/gruntjs/grunt-mazenda"></a>
-- <img src="https://img.shields.io/badge/🐞-ebf4f4"> <a href="https://github.com/janaindrajit/primePy/issues/7" target="_blank"><img src="https://img.shields.io/badge/primePy-green"></a>
-- <img src="https://img.shields.io/badge/🐞-ebf4f4"> <a href="https://github.com/janaindrajit/primePy/issues/8" target="_blank"><img src="https://img.shields.io/badge/primePy-green"></a>
+- <img src="https://img.shields.io/badge/✔-logo"> <a href="https://github.com/gruntjs/grunt/issues/1752" target="_blank"><img src="https://img.shields.io/badge/gruntjs/grunt-red?logo=grunt&logoColor=white"></a>
+- <img src="https://img.shields.io/badge/🐞-ebf4f4"> <a href="https://github.com/janaindrajit/primePy/issues/7" target="_blank"><img src="https://img.shields.io/badge/primePy-blue?logo=python&logoColor=white"></a>
+- <img src="https://img.shields.io/badge/🐞-ebf4f4"> <a href="https://github.com/janaindrajit/primePy/issues/8" target="_blank"><img src="https://img.shields.io/badge/primePy-blue?logo=python&logoColor=white"></a>
 - <img src="https://img.shields.io/badge/✔-logo"> <a href="https://developer.bitmovin.com/playback/docs/release-notes-web#81200" target="_blank"><img src="https://img.shields.io/badge/bitmovinPlayer-blue"></a>
 - <img src="https://img.shields.io/badge/✔-logo"> <a href="https://github.com/videojs/video.js/issues/8306" target="_blank"><img src="https://img.shields.io/badge/videojs-purple"></a>
 - <img src="https://img.shields.io/badge/✔-logo"> <a href="https://github.com/oracle/node-oracledb/issues/1681" target="_blank"><img src="https://img.shields.io/badge/Oracle SQL-pink"></a>
