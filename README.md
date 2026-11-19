@@ -89,7 +89,7 @@
 
 ## My Website
 
-- <img src="https://img.shields.io/badge/📌-ebf4f4"> <a href="https://artbindu.github.io/ott_player/ott-player-lab/" target="_blank"><img src="https://img.shields.io/badge/✨🔮-Explore Streaming Experiences✨-purple?logo=Math&logoColor=black"></a>
+- <img src="https://img.shields.io/badge/📌-ebf4f4"> <a href="https://artbindu.github.io/ott_player/ott-player-lab/" target="_blank"><img src="https://img.shields.io/badge/🔮-Explore Streaming Experiences✨-purple?logo=Math&logoColor=black"></a>
 - <img src="https://img.shields.io/badge/📌-ebf4f4"> <a href="https://artbindu-app.github.io/roundoff_number/index.html" target="_blank"><img src="https://img.shields.io/badge/✄-Round Off Decimal Number-blue?logo=Math&logoColor=black"></a>
 - <img src="https://img.shields.io/badge/📌-ebf4f4"> <a href="https://artbindu-app.github.io/essential_command/index.html" target="_blank"><img src="https://img.shields.io/badge/Essential Command-black?logo=app-store&logoColor=white"></a>
 - <img src="https://img.shields.io/badge/📌-ebf4f4"> <a href="https://artbindu-app.github.io/roundoff_number/converter.html" target="_blank"><img src="https://img.shields.io/badge/📟 Basic Convertor-purple"></a>
